@@ -5,4 +5,4 @@ Placing Towers:
 https://user-images.githubusercontent.com/94658867/146478232-47751c5f-125f-4b5b-af82-fd1828c5f593.mp4
 
 Game Footage:
-![image](https://user-images.githubusercontent.com/94658867/146478282-af56f101-4181-4fde-8065-f803f8b86725.png)
+
