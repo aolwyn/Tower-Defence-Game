@@ -4,5 +4,5 @@ This repository holds the source code team 2, the Grizzley Grill, created for th
 Placing Towers:
 https://user-images.githubusercontent.com/94658867/146478232-47751c5f-125f-4b5b-af82-fd1828c5f593.mp4
 
-Game Footage:
+
 
